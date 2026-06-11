@@ -161,3 +161,7 @@ License
 This repository is released for academic and research purposes.
 
 Please provide appropriate attribution if referencing the manuscript, code, or experimental findings.
+
+Note
+
+The original implementation was developed in Google Colab. Due to GitHub notebook rendering limitations, the source code is provided as a Python script (".py") instead of a Jupyter notebook (".ipynb").
